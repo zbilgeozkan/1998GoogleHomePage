@@ -1,0 +1,33 @@
+.searchbar-bg-color {
+    background-color: #eeeeee;
+}
+
+.box1 {
+    background-color: #7ee5da;
+    width: 35.6%;
+    height: 62px;
+    float: left;
+    padding: 10px;
+    margin: 2px 2px 0 0;
+}
+
+.box2 {
+    background-color: #70ccc2;
+    width: 22%;
+    height: 82px;
+    float: left;
+    margin: 2px 2px 0 0;
+}
+
+.box3 {
+    background-color: #62b3aa;
+    width: 40.75%;
+    height: 82px;
+    float: left;
+    margin-top: 2px;
+}
+
+.size_elements {
+    width: 90%;
+    margin: auto;
+}
